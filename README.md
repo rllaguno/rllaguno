@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi :)
+- Passionate student in Robotics and Digital Systems Engineering at Tecnologico de Monterrey (graduation 2025). 
 
-<!--
-**rllaguno/rllaguno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently working as a Database Administrator at Scholarvy.
 
-Here are some ideas to get you started:
+- Enjoy reading, video games, Star Wars, and sports like padel, basketball, ping-pong, and football.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Eager to contribute my skills and creativity to projects that make a positive impact on society.
+
+### Contact
+
+* Email: [rodrigollagunoc@gmail.com]
+* LinkedIn: [https://www.linkedin.com/in/rodrigo-llaguno]
+* GitHub: [https://github.com/rllaguno]
