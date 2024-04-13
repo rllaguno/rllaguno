@@ -13,7 +13,7 @@
 - Enjoy reading, video games, Star Wars, and sports like padel, basketball, ping-pong, and football.
 - Eager to contribute my skills and creativity to projects that make a positive impact on society.
 
-### Contact
+## Contact
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rodrigo-llaguno) [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/rllaguno) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rodrigollagunoc@gmail.com) 
 * rodrigollagunoc@gmail.com
 
