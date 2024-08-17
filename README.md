@@ -24,7 +24,7 @@
 * rodrigollagunoc@gmail.com
 
 ## Languages:
-[![Programming Languages](https://skillicons.dev/icons?i=python,cpp,c,swift,arduino,matlab)]()
+[![Programming Languages](https://skillicons.dev/icons?i=python,cpp,swift,c,arduino,matlab)]()
 
 ## Tecnologies:
 [![Technologies](https://skillicons.dev/icons?i=ros,processing,opencv,markdown,mysql,postgres,html,css,nodejs,postman,aws,docker,vscode,visualstudio,figma,git,github,ubuntu,linux,raspberrypi,windows,obsidian)](https://skillicons.dev)
