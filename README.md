@@ -13,9 +13,8 @@
 ```
 
 ## Hi :)
-- Passionate student in Robotics and Digital Systems Engineering at Tecnologico de Monterrey (graduation 2025). 
-- Currently working as a Database Administrator at Scholarvy.
-- Will be joining Apple Developer Academy.
+- Passionate student in Robotics and Digital Systems Engineering at Tecnologico de Monterrey (graduation 2026). 
+- Currently in the Apple Developer Academy in Naples, Italy.
 - Enjoy reading, video games, Star Wars, and sports like padel, basketball, ping-pong, and football.
 - Eager to contribute my skills and creativity to projects that make a positive impact on society.
 
