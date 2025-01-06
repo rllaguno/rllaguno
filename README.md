@@ -13,20 +13,19 @@
 ```
 
 ## Hi :)
-- Passionate student in Robotics and Digital Systems Engineering at Tecnologico de Monterrey (graduation 2026). 
-- Currently in the Apple Developer Academy in Naples, Italy.
-- Enjoy reading, video games, Star Wars, and sports like padel, basketball, ping-pong, and football.
-- Eager to contribute my skills and creativity to projects that make a positive impact on society.
+- 💻 Currently developing apps in the **Apple Developer Academy**.
+- 🦾 Robotics and Digital Systems Engineering student at **Tecnologico de Monterrey** (2026 grad). 
+- 🏂 Enjoy video games, Star Wars, reading, snowboarding and learning new things.
 
 ## Contact:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rodrigo-llaguno) [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/rllaguno) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rodrigollagunoc@gmail.com) 
 * rodrigollagunoc@gmail.com
 
 ## Languages:
-[![Programming Languages](https://skillicons.dev/icons?i=python,cpp,swift,c,arduino,matlab)]()
+[![Programming Languages](https://skillicons.dev/icons?i=swift,python,cpp,c,arduino,matlab)]()
 
 ## Tecnologies:
-[![Technologies](https://skillicons.dev/icons?i=ros,processing,opencv,markdown,mysql,postgres,html,css,nodejs,postman,aws,docker,vscode,visualstudio,figma,git,github,ubuntu,linux,raspberrypi,windows,obsidian)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=ros,opencv,docker,mysql,postgres,nodejs,postman,aws,vscode,visualstudio,git,github,figma,blender,obsidian,markdown,apple,windows,linux,ubuntu,raspberrypi)](https://skillicons.dev)
 
 ## Overview:
 <div align="left">
