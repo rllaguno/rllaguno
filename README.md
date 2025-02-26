@@ -24,7 +24,7 @@
 ## Languages:
 [![Programming Languages](https://skillicons.dev/icons?i=swift,python,cpp,c,arduino,matlab)]()
 
-## Tecnologies:
+## Technologies:
 [![Technologies](https://skillicons.dev/icons?i=ros,opencv,docker,mysql,postgres,nodejs,postman,aws,vscode,visualstudio,git,github,figma,blender,obsidian,markdown,apple,windows,linux,ubuntu,raspberrypi)](https://skillicons.dev)
 
 ## Overview:
